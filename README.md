@@ -1,5 +1,5 @@
 ## Prerequisites
-- JDK 1.8 or later - Super Sara
+- JDK 1.8 or later - Super Saravana
 - Maven 3 or later
 - MySQL 5.6 or later
 
